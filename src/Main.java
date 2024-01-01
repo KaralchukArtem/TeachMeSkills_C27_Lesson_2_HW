@@ -76,7 +76,7 @@ public class Main {
 
     }
 
-    public static void fourth(Scanner scanner){
+    public static void fourth(){
 
         int result = 0;
         int i = 1;
