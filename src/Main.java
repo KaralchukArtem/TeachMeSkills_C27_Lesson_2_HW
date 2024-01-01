@@ -23,7 +23,7 @@ public class Main {
                 third();
                 break;
             case (4):
-                fourth(scanner);
+                fourth();
                 break;
             case (5):
                 fifth(scanner);
